@@ -25,12 +25,12 @@ git clone https://github.com/yourusername/todo-list-app.git
 cd todo-list-app
 ```
 
-###Install dependencies
+##Install dependencies
 ```bash
 npm install
 ```
 
-###Set up PostgreSQL database
+##Set up PostgreSQL database
 
 DB_USER=yourusername
 
